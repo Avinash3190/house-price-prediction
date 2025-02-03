@@ -26,4 +26,4 @@ To run this application, you need to have the following installed:
 
 ## 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/Avinash3190/house-price-prediction.git
