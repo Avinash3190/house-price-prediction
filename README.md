@@ -1,6 +1,6 @@
 # House Price Prediction Application
 
-This is a simple Flask web application that uses a pre-trained machine learning model to predict house prices based on user inputs. The model was trained using data on the number of bedrooms, bathrooms, square footage, and location of houses.
+This is a simple Flask web application that uses a pre-trained machine learning model to predict house prices based on user inputs. The model was trained using data on the number of bedrooms, bathrooms, square foot, and location of houses.
 
 # Features
 - Predict house prices based on user input.
