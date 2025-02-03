@@ -8,6 +8,12 @@ This is a simple Flask web application that uses a pre-trained machine learning 
 - User-friendly web interface built with HTML and CSS.
 - Pre-trained model saved with Pickle.
 
+ # Application Demo 
+
+   - House Price Prediction Run Commands  ( https://github.com/Avinash3190/house-price-prediction/issues/1#issue-2828407399   )
+   - House price prediction input and output Suburbs  (  https://github.com/Avinash3190/house-price-prediction/issues/2#issue-2828449996 )
+   - House price prediction input and output Downtown  ( https://github.com/Avinash3190/house-price-prediction/issues/3#issue-2828456827  )
+
 # Requirements
 To run this application, you need to have the following installed:
 - Python 
